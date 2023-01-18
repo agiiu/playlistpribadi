@@ -1,0 +1,9 @@
+#EXTM3U
+
+====LOCAL====
+#EXTINF:-1 group-title="LOCAL",RCTI
+https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="LOCAL",MNCTV
+https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 group-title="LOCAL",GTV
+https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
